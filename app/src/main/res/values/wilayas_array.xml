@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="liste_wilayas">
+        <item>	ADRAR	</item>
+        <item>	CHLEF	</item>
+        <item>	LAGHOUAT	</item>
+        <item>	OUM ELBOUAGHI	</item>
+        <item>  BATNA	</item>
+        <item>	BEJAIA	</item>
+        <item>	BISKRA	</item>
+        <item>	BECHAR	</item>
+        <item>	BLIDA	</item>
+        <item>	BOUIRA	</item>
+        <item>	TAMANGHASSET	</item>
+        <item>	TEBESSA	</item>
+        <item>	TLEMCEN	</item>
+        <item>	TIARET	</item>
+        <item>	TIZI.OUZOU	</item>
+        <item>	ALGER	</item>
+        <item>	DJELFA	</item>
+        <item>	JIJEL	</item>
+        <item>	SETIF	</item>
+        <item>	SAIDA	</item>
+        <item>	SKIKDA	</item>
+        <item>	SIDI BEL ABBES	</item>
+        <item>	ANNABA	</item>
+        <item>	GUELMA	</item>
+        <item>	CONSTANTINE	</item>
+        <item>	MEDEA	</item>
+        <item>	MOSTAGANEM	</item>
+        <item>	M’SILA	</item>
+        <item>	MASCARA	</item>
+        <item>	OUARGLA	</item>
+        <item>	ORAN	</item>
+        <item>	EL BAYADH	</item>
+        <item>	ILLIZI	</item>
+        <item>	B.B.ARRERIDJ	</item>
+        <item>	BOUMERDES	</item>
+        <item>	AL TARF	</item>
+        <item>	TINDOUF	</item>
+        <item>	TISSEMSILT	</item>
+        <item>	EL OUED	</item>
+        <item>	KHENCHELA	</item>
+        <item>	SOUKAHRAS	</item>
+        <item>	TIPAZA	</item>
+        <item>	MILA	</item>
+        <item>	AIN DEFLA	</item>
+        <item>	NAAMA	</item>
+        <item>	AIN TEMOUCHENT	</item>
+        <item>	GHARDAIA	</item>
+        <item>	RELIZANE	</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#1abc9c</color>-->
+    <!--<color name="colorPrimaryDark">#16a085</color>-->
+    <!--<color name="colorAccent">#fff</color>-->
+    <color name="colorPrimary">#e67e22</color>
+    <color name="colorPrimaryDark">#d35400</color>
+    <color name="colorAccent">#34495e</color>
+
+    <color name="blancCasse">#ecf0f1</color>
+    <color name="noirCasse">#181818</color>
+    <color name="separateur">#3534495e</color>
+
+    <color name="col1">#1abc9c</color>
+    <color name="col2">#2ecc71</color>
+    <color name="col3">#3498db</color>
+    <color name="col4">#9b59b6</color>
+    <color name="col5">#34495e</color>
+    <color name="col6">#f1c40f</color>
+    <color name="col7">#e67e22</color>
+    <color name="col8">#e74c3c</color>
+    <color name="col9">#bdc3c7</color>
+    <color name="col10">#7f8c8d</color>
+
+    <color name="colWilaya">#EF6950</color>
+    <color name="colBureau">#68768A</color>
+    <color name="colLocalite">#B146C2</color>
+</resources>
+

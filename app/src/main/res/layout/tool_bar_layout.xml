@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/toolBarId"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical|center_horizontal"
+    android:orientation="vertical"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp">
+
+    <AutoCompleteTextView
+        android:id="@+id/barreSearch"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:background="@color/blancCasse"
+        android:gravity="center_vertical"
+        android:hint="@android:string/search_go"
+        android:inputType="textPersonName"
+        android:paddingBottom="4dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="4dp"
+        android:textColor="@color/noirCasse"
+        android:textSize="16sp"
+        tools:text="@android:string/search_go" />
+</LinearLayout>
